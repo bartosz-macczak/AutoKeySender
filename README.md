@@ -14,7 +14,7 @@ Project is created with:
 * .NET Framework
 * Windows Forms
 * MySQL
-* RestSharp
+* RestSharp (RestAPI)
 * Json.NET
 
 	
